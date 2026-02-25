@@ -1,0 +1,19 @@
+# Linux specific (?)
+.godot/
+*.tmp
+*.tscn.tmp
+export_presets.cfg
+.import/
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code / Editors
+.vscode/
+.idea/
+
+# Godot specific
+.godot/
+*.tmp
