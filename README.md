@@ -1,6 +1,6 @@
 # Godot project for learning
 
-Exploring an Entity Component System with Godot
+Exploring Godot for fun.  Appears to have many visual UI elements, but I am trying to focus on scripts and object-oriented portion. Trying to stay away from scene-oriented composition.
 
 ## Asteroids Project
 
