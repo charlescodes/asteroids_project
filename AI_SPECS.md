@@ -15,7 +15,7 @@
 
 ## Entity specs
 * **Player:** Triangle shape. CharacterBody2D.
-    * Controls: WASD (W=Thrust, S=Brake/Reverse, A/D=Rotate). Space=Shoot.
+	* Controls: WASD (W=Thrust, S=Brake/Reverse, A/D=Rotate). Space=Shoot.
 * **Asteroid:** Irregular "Star/Rock" shape. RigidBody2D. Spawns off-screen or off-center.
 * **Bullet:** 1x1 Rect. Area2D. High velocity.
 

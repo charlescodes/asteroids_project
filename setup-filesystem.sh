@@ -1,0 +1,1 @@
+mkdir -p res/{components,entities/{player,asteroid,projectile},levels,systems,ui}

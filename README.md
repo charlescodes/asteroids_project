@@ -8,6 +8,10 @@ TBD
 
 ### Feature Stories
 
+you know features i get excited about, like i can't believe that just happened, i want to try again and see if it happens again
+
+(and this is super casual space here)
+
 - technically easy:
     - sparks on high velocity collisions: i really enjoyed it when, somehow, it accidently got glitched the asteroids all starting going very fast in a single direction and my ship was bouncing around all over.  it would be really neat if little sparks are flying off it -- but not the pixels that the ship is composed of, but rather, a 2d effect, like sparks, that would be cool
 
