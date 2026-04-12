@@ -41,8 +41,6 @@ func _draw() -> void:
 	draw_line(Vector2(0,0), Vector2(15,0), Color.BLACK, 1.0)
 
 func _physics_process(delta: float) -> void:
-	if Input.is_action_just_pressed("ui_accept"):
-			shoot()
 	if Input.is_action_just_pressed("fire_tungsten"):
 			fire_tungsten()
 	get_input(delta)
