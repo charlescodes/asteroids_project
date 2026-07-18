@@ -4,7 +4,8 @@ Exploring Godot for fun.  Appears to have many visual UI elements, but I am tryi
 
 ## Asteroids Project
 
-TBD
+TBD <img width="800" height="450" alt="ezgif-1f6d167b649bf31e" src="https://github.com/user-attachments/assets/b86929da-287b-4197-ba1f-9d8dd6e98ba3" />
+
 
 ### Feature Stories
 
